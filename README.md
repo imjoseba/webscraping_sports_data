@@ -1,15 +1,16 @@
-# The Pythagorean Expectation
+# Unraveling the "secrets" of HTML and CSS: An Egyptologist’s Journey
 
 ![Cover Image](scrapy_jones.jpeg)
 
-I’m a data analyst📊, but where do I get the data?
+I’m a data analyst📊, but where do I get the data?  
+🌐🔍📜🔑 
 
-There are many ways to get them like public databases:
-https://lnkd.in/dXY4ynSC
-https://data.gov/
-https://lnkd.in/djpUKNbJ
-https://datos.gob.es/es/
-https://data.europa.eu/es
+There are many ways to get them like public databases:  
+https://lnkd.in/dXY4ynSC  
+https://data.gov/  
+https://lnkd.in/djpUKNbJ  
+https://datos.gob.es/es/  
+https://data.europa.eu/es  
 
 Or you can also do web scraping with libraries with a name as peculiar as BeautifilSoup. This technique allows me to get data where I want it (or almost), and feel a Indiana Jones ...
 
