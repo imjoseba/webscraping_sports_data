@@ -1,6 +1,6 @@
 # The Pythagorean Expectation
 
-![Cover Image](scrapy_jones.jpg)
+![Cover Image](scrapy_jones.jpeg)
 
 I’m a data analyst📊, but where do I get the data?
 
